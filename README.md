@@ -6,7 +6,7 @@
 
 [Портфолио](https://vagapov-studio.netlify.app/) · [Обсудить проект](https://t.me/vagapov_studio) · [Email](mailto:vagapov.studio.pro@gmail.com)
 
-[![Главная страница Vagapov Studio](assets/studio.jpg)](https://vagapov-studio.netlify.app/)
+[![Анимация фона Vagapov Studio](assets/studio.gif)](https://vagapov-studio.netlify.app/)
 
 ## Выбранные проекты
 
